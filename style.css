@@ -1,0 +1,211 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+html, body{
+
+    height: 100%;
+    width: 100%;
+}
+
+#main-div{
+
+    height: 100%;
+    width: 100%;
+
+    background-color: aliceblue
+}
+
+.h31{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    color: aliceblue;
+
+}
+
+.h32{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    color: rgb(4, 119, 235);
+
+}
+
+
+.h33{
+    position: absolute;
+    top: 23.6%;
+    left: 7%;
+    color:  rgb(4, 119, 235);
+
+    
+}
+
+h2{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    font-weight: 100;
+    word-spacing: 2px;
+    font-size: 45px;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+
+
+}
+
+
+h1{
+
+    position: absolute;
+    top: 43%;
+    left: 10%;
+    font-size: 45px;
+    font-weight: 900;
+    
+}
+
+.div1{
+    height: 90%;
+    width: 50%;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    background-color: rgb(3, 8, 12);
+    background-image: url(https://paytm.com/blog/wp-content/uploads/2021/06/Creditcard_4_Advantage-_-Disadvantage-of-Credit-Card.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input{
+
+    height: 36px;
+    width: 18%;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    padding-left: 8px;
+    border: none;
+    outline: none;
+
+
+}
+
+.button1{
+    height: 35px;
+    width: 8%;
+    position: absolute;
+    top: 60%;
+    left: 28%;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 2px;
+
+}
+
+h6{
+    position: absolute;
+    top: 85%;
+    left: 5%;
+    font-size: 18px;
+
+
+}
+
+.img1{
+
+    position: absolute;
+    top: 85%;
+    left: 9%;
+    height: 21px;
+    background-color: rgb(66, 136, 234);
+    border-radius: 20px;
+}
+
+.h51{
+    
+    position: absolute;
+    top: -7%;
+    left: 15%;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size:18px
+
+
+
+}
+
+.h52{
+    
+    position: absolute;
+    top: -7%;
+    left: 30%;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size:18px
+
+    
+
+}
+
+.h53{
+    
+    position: absolute;
+    top: -7%;
+    left: 48%;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size:18px
+
+
+
+}
+
+.h54{
+    
+    position: absolute;
+    top: -7%;
+    left: 60%;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size:18px
+
+
+
+
+}
+
+.button2{
+
+    padding: 8px 15px;
+    position: absolute;
+    top: -8%;
+    left: 75%;
+    border-radius: 5px;
+    font-weight: 700;
+    border: none;
+    font-size:15px
+
+}
+
+/* .overlay{
+
+    height: 100%;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.276);
+    position: absolute;
+    right: 0%;
+} */
+
+.div2{
+height: 10%;
+width: 100%;
+background-color: rgb(2, 20, 64);
+position: absolute;
+right: 0%;
+/* border: 1px solid red; */
+}
